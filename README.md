@@ -1,3 +1,3 @@
-### A minimal image containing curl, bash and git
+### A minimal image containing curl, bash, ssh and git
 
 
